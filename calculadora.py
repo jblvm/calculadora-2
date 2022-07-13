@@ -23,20 +23,3 @@ def exp(a, b):
 def rad(a, b):
     return a**(1/b)
 
-a = 23
-b = 14
-
-print(sum(a,b))
-print(sub(a,b))
-print(div(a,b))
-print(exp(a,b))
-print(rad(a,b))
-
-print('Coloque o numero c:')
-c = int(input())
-
-print(sum(a,c))
-print(sub(a,c))
-print(div(a,c))
-print(exp(a,c))
-print(rad(a,c))
