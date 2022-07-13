@@ -34,3 +34,6 @@ print(sub(a,b))
 print(div(a,b))
 print(exp(a,b))
 print(rad(a,b))
+
+print('Coloque o numero c:')
+c = int(input())
