@@ -22,3 +22,6 @@ def exp(a, b):
 
 def rad(a, b):
     return a**(1/b)
+
+print('Coloque o numero a:')
+a = int(input())
