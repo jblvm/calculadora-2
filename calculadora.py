@@ -15,7 +15,6 @@ def sub(a, b):
     return a - b
 
 def div(a, b):
-    return a / b
 
 def exp(a, b):
     return a * b
@@ -25,3 +24,6 @@ def rad(a, b):
 
 print('Coloque o numero a:')
 a = int(input())
+
+print('Coloque o numero b:')
+b = int(input())
