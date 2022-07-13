@@ -23,11 +23,8 @@ def exp(a, b):
 def rad(a, b):
     return a**(1/b)
 
-print('Coloque o numero a:')
-a = int(input())
-
-print('Coloque o numero b:')
-b = int(input())
+a = 23
+b = 14
 
 print(sum(a,b))
 print(sub(a,b))
