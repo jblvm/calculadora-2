@@ -31,3 +31,12 @@ print(sub(a,b))
 print(div(a,b))
 print(exp(a,b))
 print(rad(a,b))
+
+print('Coloque o numero c:')
+c = int(input())
+
+print(sum(a,c))
+print(sub(a,c))
+print(div(a,c))
+print(exp(a,c))
+print(rad(a,c))
