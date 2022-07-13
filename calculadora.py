@@ -37,3 +37,9 @@ print(rad(a,b))
 
 print('Coloque o numero c:')
 c = int(input())
+
+print(sum(a,c))
+print(sub(a,c))
+print(div(a,c))
+print(exp(a,c))
+print(rad(a,c))
