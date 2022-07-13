@@ -19,3 +19,6 @@ def div(a, b):
 
 def exp(a, b):
     return a * b
+
+def rad(a, b):
+    return a**(1/b)
